@@ -10,6 +10,8 @@ public class ClassB {
 		System.out.println("classB - Method 2 - 1st Line");
 	}
 	
-	
+	public void method3B(){
+		System.out.println("classB - Method 3 - 1st Line");
+	}
 	
 }
