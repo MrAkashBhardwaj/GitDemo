@@ -14,4 +14,9 @@ public class ClassC {
 		System.out.println("classB - Method 3 - 1st Line");
 	}
 	
+	
+	public void method4B(){
+		System.out.println("classB - Method 4 - 1st Line");
+	}
+	
 }
